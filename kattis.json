@@ -1,0 +1,2820 @@
+{
+    "problems": {
+        "coprimeintegers": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/coprimeintegers"
+        },
+        "copsandrobbers": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/copsandrobbers"
+        },
+        "exam": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/exam"
+        },
+        "goatrope": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/goatrope"
+        },
+        "heirsdilemma": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/heirsdilemma"
+        },
+        "illiteracy": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/illiteracy"
+        },
+        "mobilization": {
+            "diff": 5.6,
+            "url": "https://open.kattis.com/problems/mobilization"
+        },
+        "pokerhand": {
+            "diff": 1.5,
+            "url": "https://open.kattis.com/problems/pokerhand"
+        },
+        "randommanhattan": {
+            "diff": 5.3,
+            "url": "https://open.kattis.com/problems/randommanhattan"
+        },
+        "repeatedsubstrings": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/repeatedsubstrings"
+        },
+        "treehouses": {
+            "diff": 3.8,
+            "url": "https://open.kattis.com/problems/treehouses"
+        },
+        "hello": {
+            "diff": 1.2,
+            "url": "https://open.kattis.com/problems/hello"
+        },
+        "carrots": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/carrots"
+        },
+        "aaah": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/aaah"
+        },
+        "aliennumbers": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/aliennumbers"
+        },
+        "coursescheduling": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/coursescheduling"
+        },
+        "aboveaverage": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/aboveaverage"
+        },
+        "astrologicalsign": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/astrologicalsign"
+        },
+        "99problems": {
+            "diff": 2.7,
+            "url": "https://open.kattis.com/problems/99problems"
+        },
+        "combinationlock": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/combinationlock"
+        },
+        "guessinggame": {
+            "diff": 3.1,
+            "url": "https://open.kattis.com/problems/guessinggame"
+        },
+        "shortestpath4": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/shortestpath4"
+        },
+        "10kindsofpeople": {
+            "diff": 5.5,
+            "url": "https://open.kattis.com/problems/10kindsofpeople"
+        },
+        "ballcolors": {
+            "diff": 5.5,
+            "url": "https://open.kattis.com/problems/ballcolors"
+        },
+        "allkill": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/allkill"
+        },
+        "anothercoinweighingpuzzle": {
+            "diff": 6.8,
+            "url": "https://open.kattis.com/problems/anothercoinweighingpuzzle"
+        },
+        "bomas": {
+            "diff": 6.7,
+            "url": "https://open.kattis.com/problems/bomas"
+        },
+        "editingexplosion": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/editingexplosion"
+        },
+        "gridguardian": {
+            "diff": 7.3,
+            "url": "https://open.kattis.com/problems/gridguardian"
+        },
+        "hopscotch50": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/hopscotch50"
+        },
+        "icpccamp": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/icpccamp"
+        },
+        "letterwheels": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/letterwheels"
+        },
+        "lunchtimenamerecall": {
+            "diff": 8.3,
+            "url": "https://open.kattis.com/problems/lunchtimenamerecall"
+        },
+        "minibattleship": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/minibattleship"
+        },
+        "rootedsubtrees": {
+            "diff": 4.0,
+            "url": "https://open.kattis.com/problems/rootedsubtrees"
+        },
+        "tombraider": {
+            "diff": 5.0,
+            "url": "https://open.kattis.com/problems/tombraider"
+        },
+        "variedamusements": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/variedamusements"
+        },
+        "skolvagen": {
+            "diff": 3.05,
+            "url": "https://open.kattis.com/problems/skolvagen"
+        },
+        "silverstarstandsalone": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/silverstarstandsalone"
+        },
+        "dutub": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/dutub"
+        },
+        "welcomehard": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/welcomehard"
+        },
+        "caching": {
+            "diff": 6.3,
+            "url": "https://open.kattis.com/problems/caching"
+        },
+        "pawnshop": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/pawnshop"
+        },
+        "exactchange2": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/exactchange2"
+        },
+        "colorland": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/colorland"
+        },
+        "mububa": {
+            "diff": 7.2,
+            "url": "https://open.kattis.com/problems/mububa"
+        },
+        "drinkingsong": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/drinkingsong"
+        },
+        "happyprime": {
+            "diff": 2.2,
+            "url": "https://open.kattis.com/problems/happyprime"
+        },
+        "lessvsfewer": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/lessvsfewer"
+        },
+        "intervalscheduling": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/intervalscheduling"
+        },
+        "dreamer": {
+            "diff": 2.2,
+            "url": "https://open.kattis.com/problems/dreamer"
+        },
+        "uniquedice": {
+            "diff": 5.1,
+            "url": "https://open.kattis.com/problems/uniquedice"
+        },
+        "lastfactorialdigit": {
+            "diff": 1.5,
+            "url": "https://open.kattis.com/problems/lastfactorialdigit"
+        },
+        "checkingbreak": {
+            "diff": 6.1,
+            "url": "https://open.kattis.com/problems/checkingbreak"
+        },
+        "brokencalculator": {
+            "diff": 2.7,
+            "url": "https://open.kattis.com/problems/brokencalculator"
+        },
+        "selectgroup": {
+            "diff": 3.8,
+            "url": "https://open.kattis.com/problems/selectgroup"
+        },
+        "simplification": {
+            "diff": 6.7,
+            "url": "https://open.kattis.com/problems/simplification"
+        },
+        "meltdown": {
+            "diff": 5.3,
+            "url": "https://open.kattis.com/problems/meltdown"
+        },
+        "pokegene": {
+            "diff": 7.4,
+            "url": "https://open.kattis.com/problems/pokegene"
+        },
+        "pitchperformance": {
+            "diff": 5.1,
+            "url": "https://open.kattis.com/problems/pitchperformance"
+        },
+        "peaktram": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/peaktram"
+        },
+        "quickscope": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/quickscope"
+        },
+        "movingday": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/movingday"
+        },
+        "adolescentarchitecture": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/adolescentarchitecture"
+        },
+        "bookshelfbuilding": {
+            "diff": 7.0,
+            "url": "https://open.kattis.com/problems/bookshelfbuilding"
+        },
+        "confinedcatching": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/confinedcatching"
+        },
+        "decorativedominoes": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/decorativedominoes"
+        },
+        "exhaustingerrands": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/exhaustingerrands"
+        },
+        "flipflow": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/flipflow"
+        },
+        "gravitygrid": {
+            "diff": 6.0,
+            "url": "https://open.kattis.com/problems/gravitygrid"
+        },
+        "hecticharbour": {
+            "diff": 7.5,
+            "url": "https://open.kattis.com/problems/hecticharbour"
+        },
+        "impressiveintegers": {
+            "diff": 6.3,
+            "url": "https://open.kattis.com/problems/impressiveintegers"
+        },
+        "jeopardisedjourney": {
+            "diff": 8.8,
+            "url": "https://open.kattis.com/problems/jeopardisedjourney"
+        },
+        "knightlyknowledge": {
+            "diff": 7.0,
+            "url": "https://open.kattis.com/problems/knightlyknowledge"
+        },
+        "lexiographiclecturing": {
+            "diff": 7.2,
+            "url": "https://open.kattis.com/problems/lexiographiclecturing"
+        },
+        "mixtapemanagement": {
+            "diff": 3.8,
+            "url": "https://open.kattis.com/problems/mixtapemanagement"
+        },
+        "dvds": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/dvds"
+        },
+        "sjecista": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/sjecista"
+        },
+        "jumbojavelin": {
+            "diff": 1.3,
+            "url": "https://open.kattis.com/problems/jumbojavelin"
+        },
+        "sidewayssorting": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/sidewayssorting"
+        },
+        "thebackslashproblem": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/thebackslashproblem"
+        },
+        "tripletexting": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/tripletexting"
+        },
+        "upsanddownsofinvesting": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/upsanddownsofinvesting"
+        },
+        "circuitmath": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/circuitmath"
+        },
+        "toilet": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/toilet"
+        },
+        "scrollingsign": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/scrollingsign"
+        },
+        "harshadnumbers": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/harshadnumbers"
+        },
+        "summertrip": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/summertrip"
+        },
+        "odds": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/odds"
+        },
+        "karte": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/karte"
+        },
+        "cardtrick2": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/cardtrick2"
+        },
+        "yinyangstones": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/yinyangstones"
+        },
+        "pachydermpeanutpacking": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/pachydermpeanutpacking"
+        },
+        "patchwork": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/patchwork"
+        },
+        "tutorial": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/tutorial"
+        },
+        "fizzbuzz2": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/fizzbuzz2"
+        },
+        "guess": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/guess"
+        },
+        "logo": {
+            "diff": 2.5,
+            "url": "https://open.kattis.com/problems/logo"
+        },
+        "eulerian": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/eulerian"
+        },
+        "peasoup": {
+            "diff": 2.2,
+            "url": "https://open.kattis.com/problems/peasoup"
+        },
+        "malfunctioningrobot": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/malfunctioningrobot"
+        },
+        "iwannabe": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/iwannabe"
+        },
+        "europeantrip": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/europeantrip"
+        },
+        "a1paper": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/a1paper"
+        },
+        "textureanalysis": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/textureanalysis"
+        },
+        "outofsorts": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/outofsorts"
+        },
+        "numbersetseasy": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/numbersetseasy"
+        },
+        "illumination": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/illumination"
+        },
+        "trip": {
+            "diff": 6.6,
+            "url": "https://open.kattis.com/problems/trip"
+        },
+        "whenplanetoidsalign": {
+            "diff": 7.1,
+            "url": "https://open.kattis.com/problems/whenplanetoidsalign"
+        },
+        "redblacktree": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/redblacktree"
+        },
+        "mixedfractions": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/mixedfractions"
+        },
+        "booking": {
+            "diff": 5.6,
+            "url": "https://open.kattis.com/problems/booking"
+        },
+        "orderlyclass": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/orderlyclass"
+        },
+        "tildes": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/tildes"
+        },
+        "splat": {
+            "diff": 2.4,
+            "url": "https://open.kattis.com/problems/splat"
+        },
+        "abstractpainting": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/abstractpainting"
+        },
+        "combinatorialstanleycup": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/combinatorialstanleycup"
+        },
+        "donations": {
+            "diff": 9.2,
+            "url": "https://open.kattis.com/problems/donations"
+        },
+        "doubleagentconference": {
+            "diff": 5.0,
+            "url": "https://open.kattis.com/problems/doubleagentconference"
+        },
+        "haltingafterall": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/haltingafterall"
+        },
+        "illuminatispotti": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/illuminatispotti"
+        },
+        "predictinggme": {
+            "diff": 4.4,
+            "url": "https://open.kattis.com/problems/predictinggme"
+        },
+        "starbattles1": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/starbattles1"
+        },
+        "starbattles2": {
+            "diff": 3.8,
+            "url": "https://open.kattis.com/problems/starbattles2"
+        },
+        "thecouncil": {
+            "diff": 4.8,
+            "url": "https://open.kattis.com/problems/thecouncil"
+        },
+        "whichbits": {
+            "diff": 6.3,
+            "url": "https://open.kattis.com/problems/whichbits"
+        },
+        "workingfromhome": {
+            "diff": 4.4,
+            "url": "https://open.kattis.com/problems/workingfromhome"
+        },
+        "hailstone2": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/hailstone2"
+        },
+        "alldifferentdirections": {
+            "diff": 2.4,
+            "url": "https://open.kattis.com/problems/alldifferentdirections"
+        },
+        "shoppinglisteasy": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/shoppinglisteasy"
+        },
+        "luhnchecksum": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/luhnchecksum"
+        },
+        "goodmorning": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/goodmorning"
+        },
+        "whichbase": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/whichbase"
+        },
+        "saxophone": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/saxophone"
+        },
+        "protectingthecollection": {
+            "diff": 3.8,
+            "url": "https://open.kattis.com/problems/protectingthecollection"
+        },
+        "ninepacks": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/ninepacks"
+        },
+        "majstor": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/majstor"
+        },
+        "awkwardparty": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/awkwardparty"
+        },
+        "fire2": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/fire2"
+        },
+        "landline": {
+            "diff": 5.5,
+            "url": "https://open.kattis.com/problems/landline"
+        },
+        "grapevine": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/grapevine"
+        },
+        "wiknow": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/wiknow"
+        },
+        "kafkaesque": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/kafkaesque"
+        },
+        "antennaplacement": {
+            "diff": 7.3,
+            "url": "https://open.kattis.com/problems/antennaplacement"
+        },
+        "wimbledon": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/wimbledon"
+        },
+        "natrij": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/natrij"
+        },
+        "coke": {
+            "diff": 6.1,
+            "url": "https://open.kattis.com/problems/coke"
+        },
+        "taxing": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/taxing"
+        },
+        "stackingup": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/stackingup"
+        },
+        "kleptography": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/kleptography"
+        },
+        "fractal2": {
+            "diff": 6.6,
+            "url": "https://open.kattis.com/problems/fractal2"
+        },
+        "hexagonalrooks": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/hexagonalrooks"
+        },
+        "tripplanning": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/tripplanning"
+        },
+        "weightlifting": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/weightlifting"
+        },
+        "builttoscale": {
+            "diff": 7.7,
+            "url": "https://open.kattis.com/problems/builttoscale"
+        },
+        "collidingtraffic": {
+            "diff": 6.0,
+            "url": "https://open.kattis.com/problems/collidingtraffic"
+        },
+        "zigzag2": {
+            "diff": 5.1,
+            "url": "https://open.kattis.com/problems/zigzag2"
+        },
+        "magicalrunes": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/magicalrunes"
+        },
+        "veci": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/veci"
+        },
+        "primereduction": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/primereduction"
+        },
+        "pathcrossings": {
+            "diff": 2.7,
+            "url": "https://open.kattis.com/problems/pathcrossings"
+        },
+        "tetris": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/tetris"
+        },
+        "dartscores": {
+            "diff": 2.4,
+            "url": "https://open.kattis.com/problems/dartscores"
+        },
+        "permutedarithmeticsequence": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/permutedarithmeticsequence"
+        },
+        "boatparts": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/boatparts"
+        },
+        "flipfive": {
+            "diff": 3.1,
+            "url": "https://open.kattis.com/problems/flipfive"
+        },
+        "speedrun": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/speedrun"
+        },
+        "trackingshares": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/trackingshares"
+        },
+        "trainboarding": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/trainboarding"
+        },
+        "flygskam": {
+            "diff": 5.5,
+            "url": "https://open.kattis.com/problems/flygskam"
+        },
+        "magictrick": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/magictrick"
+        },
+        "teacherevaluation": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/teacherevaluation"
+        },
+        "subexpression": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/subexpression"
+        },
+        "heatingup": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/heatingup"
+        },
+        "glossaryarrangement": {
+            "diff": 5.5,
+            "url": "https://open.kattis.com/problems/glossaryarrangement"
+        },
+        "customscontrols": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/customscontrols"
+        },
+        "newmaths": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/newmaths"
+        },
+        "lootchest": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/lootchest"
+        },
+        "soundex": {
+            "diff": 2.5,
+            "url": "https://open.kattis.com/problems/soundex"
+        },
+        "buriedtreasure": {
+            "diff": 8.9,
+            "url": "https://open.kattis.com/problems/buriedtreasure"
+        },
+        "divideandconquer": {
+            "diff": 7.7,
+            "url": "https://open.kattis.com/problems/divideandconquer"
+        },
+        "easymultiplication": {
+            "diff": 8.1,
+            "url": "https://open.kattis.com/problems/easymultiplication"
+        },
+        "greedypolygons": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/greedypolygons"
+        },
+        "impossibleprices": {
+            "diff": 7.9,
+            "url": "https://open.kattis.com/problems/impossibleprices"
+        },
+        "keywords": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/keywords"
+        },
+        "litespace": {
+            "diff": 5.0,
+            "url": "https://open.kattis.com/problems/litespace"
+        },
+        "magicalcows": {
+            "diff": 4.7,
+            "url": "https://open.kattis.com/problems/magicalcows"
+        },
+        "roundtrips": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/roundtrips"
+        },
+        "schoolspirit": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/schoolspirit"
+        },
+        "structuralintegrity": {
+            "diff": 8.6,
+            "url": "https://open.kattis.com/problems/structuralintegrity"
+        },
+        "thewrathofkahn": {
+            "diff": 6.7,
+            "url": "https://open.kattis.com/problems/thewrathofkahn"
+        },
+        "inflation": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/inflation"
+        },
+        "pairingsocks": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/pairingsocks"
+        },
+        "ninetynine": {
+            "diff": 2.15,
+            "url": "https://open.kattis.com/problems/ninetynine"
+        },
+        "beatspread": {
+            "diff": 2.4,
+            "url": "https://open.kattis.com/problems/beatspread"
+        },
+        "tourist": {
+            "diff": 7.3,
+            "url": "https://open.kattis.com/problems/tourist"
+        },
+        "citypark": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/citypark"
+        },
+        "canonical": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/canonical"
+        },
+        "hauntedgraveyard": {
+            "diff": 7.8,
+            "url": "https://open.kattis.com/problems/hauntedgraveyard"
+        },
+        "golfbot": {
+            "diff": 6.2,
+            "url": "https://open.kattis.com/problems/golfbot"
+        },
+        "greatswercporto": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/greatswercporto"
+        },
+        "hiddenwords": {
+            "diff": 6.8,
+            "url": "https://open.kattis.com/problems/hiddenwords"
+        },
+        "ricochetrobots": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/ricochetrobots"
+        },
+        "asciiaddition": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/asciiaddition"
+        },
+        "classpicture": {
+            "diff": 5.6,
+            "url": "https://open.kattis.com/problems/classpicture"
+        },
+        "saintjohn": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/saintjohn"
+        },
+        "bookclub": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/bookclub"
+        },
+        "target": {
+            "diff": 6.9,
+            "url": "https://open.kattis.com/problems/target"
+        },
+        "geometry": {
+            "diff": 5.6,
+            "url": "https://open.kattis.com/problems/geometry"
+        },
+        "xortris": {
+            "diff": 6.6,
+            "url": "https://open.kattis.com/problems/xortris"
+        },
+        "flowerytrails": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/flowerytrails"
+        },
+        "fence": {
+            "diff": 6.3,
+            "url": "https://open.kattis.com/problems/fence"
+        },
+        "absurdistan3": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/absurdistan3"
+        },
+        "falsesecurity": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/falsesecurity"
+        },
+        "anti11": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/anti11"
+        },
+        "invokereasy": {
+            "diff": 2.5,
+            "url": "https://open.kattis.com/problems/invokereasy"
+        },
+        "oddmanout": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/oddmanout"
+        },
+        "simpleaddition": {
+            "diff": 2.2,
+            "url": "https://open.kattis.com/problems/simpleaddition"
+        },
+        "nonprimefactors": {
+            "diff": 6.0,
+            "url": "https://open.kattis.com/problems/nonprimefactors"
+        },
+        "plankton": {
+            "diff": 6.3,
+            "url": "https://open.kattis.com/problems/plankton"
+        },
+        "lawnmower": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/lawnmower"
+        },
+        "evenup": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/evenup"
+        },
+        "landlocked": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/landlocked"
+        },
+        "dontfencemein": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/dontfencemein"
+        },
+        "imperfectgps": {
+            "diff": 4.0,
+            "url": "https://open.kattis.com/problems/imperfectgps"
+        },
+        "musicaltrees": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/musicaltrees"
+        },
+        "cheetahs": {
+            "diff": 5.1,
+            "url": "https://open.kattis.com/problems/cheetahs"
+        },
+        "pubnite": {
+            "diff": 6.1,
+            "url": "https://open.kattis.com/problems/pubnite"
+        },
+        "windypath": {
+            "diff": 7.2,
+            "url": "https://open.kattis.com/problems/windypath"
+        },
+        "alternatingalgorithm": {
+            "diff": 8.8,
+            "url": "https://open.kattis.com/problems/alternatingalgorithm"
+        },
+        "bottleflip": {
+            "diff": 3.8,
+            "url": "https://open.kattis.com/problems/bottleflip"
+        },
+        "circularcaramelcookie": {
+            "diff": 4.8,
+            "url": "https://open.kattis.com/problems/circularcaramelcookie"
+        },
+        "delftdistance": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/delftdistance"
+        },
+        "eta": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/eta"
+        },
+        "fasterthanlight": {
+            "diff": 8.4,
+            "url": "https://open.kattis.com/problems/fasterthanlight"
+        },
+        "goingincircles": {
+            "diff": 4.8,
+            "url": "https://open.kattis.com/problems/goingincircles"
+        },
+        "highqualitytree": {
+            "diff": 4.0,
+            "url": "https://open.kattis.com/problems/highqualitytree"
+        },
+        "interviewquestion": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/interviewquestion"
+        },
+        "justiceserved": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/justiceserved"
+        },
+        "kebabpizza": {
+            "diff": 7.0,
+            "url": "https://open.kattis.com/problems/kebabpizza"
+        },
+        "lastguess": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/lastguess"
+        },
+        "aprizenoonecanwin": {
+            "diff": 2.5,
+            "url": "https://open.kattis.com/problems/aprizenoonecanwin"
+        },
+        "empleh": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/empleh"
+        },
+        "conteststruggles": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/conteststruggles"
+        },
+        "doggopher": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/doggopher"
+        },
+        "countingstars": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/countingstars"
+        },
+        "dyslectionary": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/dyslectionary"
+        },
+        "pervasiveheartmonitor": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/pervasiveheartmonitor"
+        },
+        "heimavinna": {
+            "diff": 1.35,
+            "url": "https://open.kattis.com/problems/heimavinna"
+        },
+        "permutationdescent": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/permutationdescent"
+        },
+        "kaploeb": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/kaploeb"
+        },
+        "digitswap": {
+            "diff": 1.3,
+            "url": "https://open.kattis.com/problems/digitswap"
+        },
+        "faktor": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/faktor"
+        },
+        "greetings2": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/greetings2"
+        },
+        "gcvwr": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/gcvwr"
+        },
+        "betting": {
+            "diff": 1.3,
+            "url": "https://open.kattis.com/problems/betting"
+        },
+        "symmetricorder": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/symmetricorder"
+        },
+        "iboard": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/iboard"
+        },
+        "birthday": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/birthday"
+        },
+        "reachableroads": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/reachableroads"
+        },
+        "promotions": {
+            "diff": 6.4,
+            "url": "https://open.kattis.com/problems/promotions"
+        },
+        "hoppers": {
+            "diff": 4.0,
+            "url": "https://open.kattis.com/problems/hoppers"
+        },
+        "dominos": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/dominos"
+        },
+        "digitdivision": {
+            "diff": 4.7,
+            "url": "https://open.kattis.com/problems/digitdivision"
+        },
+        "pokeball": {
+            "diff": 6.1,
+            "url": "https://open.kattis.com/problems/pokeball"
+        },
+        "neutralground": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/neutralground"
+        },
+        "planete": {
+            "diff": 6.1,
+            "url": "https://open.kattis.com/problems/planete"
+        },
+        "safesttaxi": {
+            "diff": 7.0,
+            "url": "https://open.kattis.com/problems/safesttaxi"
+        },
+        "mathemagicians": {
+            "diff": 5.1,
+            "url": "https://open.kattis.com/problems/mathemagicians"
+        },
+        "stack": {
+            "diff": 7.5,
+            "url": "https://open.kattis.com/problems/stack"
+        },
+        "travellingcaterpillar": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/travellingcaterpillar"
+        },
+        "artwork": {
+            "diff": 5.5,
+            "url": "https://open.kattis.com/problems/artwork"
+        },
+        "autocorrect": {
+            "diff": 5.6,
+            "url": "https://open.kattis.com/problems/autocorrect"
+        },
+        "cardhand": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/cardhand"
+        },
+        "stockbroker": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/stockbroker"
+        },
+        "exponial": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/exponial"
+        },
+        "raffle": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/raffle"
+        },
+        "gamerank": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/gamerank"
+        },
+        "tower": {
+            "diff": 6.9,
+            "url": "https://open.kattis.com/problems/tower"
+        },
+        "interception": {
+            "diff": 8.4,
+            "url": "https://open.kattis.com/problems/interception"
+        },
+        "compass": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/compass"
+        },
+        "dogs": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/dogs"
+        },
+        "workstations": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/workstations"
+        },
+        "luckyshirt": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/luckyshirt"
+        },
+        "permutationarrays": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/permutationarrays"
+        },
+        "spectrum": {
+            "diff": 5.8,
+            "url": "https://open.kattis.com/problems/spectrum"
+        },
+        "droppingdirections": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/droppingdirections"
+        },
+        "recycling": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/recycling"
+        },
+        "thelastproblem": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/thelastproblem"
+        },
+        "unusualdarts": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/unusualdarts"
+        },
+        "piglatin": {
+            "diff": 2.2,
+            "url": "https://open.kattis.com/problems/piglatin"
+        },
+        "robots": {
+            "diff": 7.1,
+            "url": "https://open.kattis.com/problems/robots"
+        },
+        "diagonalcut": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/diagonalcut"
+        },
+        "gerrymandering": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/gerrymandering"
+        },
+        "missingnumbers": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/missingnumbers"
+        },
+        "nvwls": {
+            "diff": 8.5,
+            "url": "https://open.kattis.com/problems/nvwls"
+        },
+        "prospecting": {
+            "diff": 8.4,
+            "url": "https://open.kattis.com/problems/prospecting"
+        },
+        "researchproductivityindex": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/researchproductivityindex"
+        },
+        "runningroutes": {
+            "diff": 6.7,
+            "url": "https://open.kattis.com/problems/runningroutes"
+        },
+        "slowleak": {
+            "diff": 5.8,
+            "url": "https://open.kattis.com/problems/slowleak"
+        },
+        "stopcounting": {
+            "diff": 5.3,
+            "url": "https://open.kattis.com/problems/stopcounting"
+        },
+        "travelingmerchant": {
+            "diff": 7.0,
+            "url": "https://open.kattis.com/problems/travelingmerchant"
+        },
+        "zipline": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/zipline"
+        },
+        "leftbeehind": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/leftbeehind"
+        },
+        "differentdistances": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/differentdistances"
+        },
+        "sifferprodukt": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/sifferprodukt"
+        },
+        "vote": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/vote"
+        },
+        "smartphone": {
+            "diff": 2.7,
+            "url": "https://open.kattis.com/problems/smartphone"
+        },
+        "hammingellipses": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/hammingellipses"
+        },
+        "names": {
+            "diff": 4.0,
+            "url": "https://open.kattis.com/problems/names"
+        },
+        "cats": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/cats"
+        },
+        "keyboardd": {
+            "diff": 2.4,
+            "url": "https://open.kattis.com/problems/keyboardd"
+        },
+        "colourful": {
+            "diff": 6.1,
+            "url": "https://open.kattis.com/problems/colourful"
+        },
+        "doors": {
+            "diff": 6.0,
+            "url": "https://open.kattis.com/problems/doors"
+        },
+        "peaktower": {
+            "diff": 7.8,
+            "url": "https://open.kattis.com/problems/peaktower"
+        },
+        "perfecttree": {
+            "diff": 8.4,
+            "url": "https://open.kattis.com/problems/perfecttree"
+        },
+        "playingwithnumbers": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/playingwithnumbers"
+        },
+        "scaffolding": {
+            "diff": 5.6,
+            "url": "https://open.kattis.com/problems/scaffolding"
+        },
+        "slimcut": {
+            "diff": 7.0,
+            "url": "https://open.kattis.com/problems/slimcut"
+        },
+        "specialtour": {
+            "diff": 6.0,
+            "url": "https://open.kattis.com/problems/specialtour"
+        },
+        "taboo": {
+            "diff": 6.9,
+            "url": "https://open.kattis.com/problems/taboo"
+        },
+        "teamup": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/teamup"
+        },
+        "jumpingmonkey": {
+            "diff": 7.0,
+            "url": "https://open.kattis.com/problems/jumpingmonkey"
+        },
+        "tickettoride": {
+            "diff": 7.8,
+            "url": "https://open.kattis.com/problems/tickettoride"
+        },
+        "killingchaos": {
+            "diff": 5.4,
+            "url": "https://open.kattis.com/problems/killingchaos"
+        },
+        "kingscolors": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/kingscolors"
+        },
+        "slikar": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/slikar"
+        },
+        "shortestpath2": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/shortestpath2"
+        },
+        "savingforretirement": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/savingforretirement"
+        },
+        "keypad": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/keypad"
+        },
+        "brickpartition": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/brickpartition"
+        },
+        "divisorcounts": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/divisorcounts"
+        },
+        "aliencodebreaking": {
+            "diff": 8.5,
+            "url": "https://open.kattis.com/problems/aliencodebreaking"
+        },
+        "cetvrta": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/cetvrta"
+        },
+        "pegsandlegs": {
+            "diff": 4.5,
+            "url": "https://open.kattis.com/problems/pegsandlegs"
+        },
+        "maximizingwinnings": {
+            "diff": 4.1,
+            "url": "https://open.kattis.com/problems/maximizingwinnings"
+        },
+        "vegetables": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/vegetables"
+        },
+        "codes": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/codes"
+        },
+        "apostrophecatastrophe": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/apostrophecatastrophe"
+        },
+        "2naire": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/2naire"
+        },
+        "quiteaproblem": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/quiteaproblem"
+        },
+        "autocompletion": {
+            "diff": 6.0,
+            "url": "https://open.kattis.com/problems/autocompletion"
+        },
+        "skocimis": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/skocimis"
+        },
+        "cinema2": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/cinema2"
+        },
+        "matrix": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/matrix"
+        },
+        "lindenmayorsystem": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/lindenmayorsystem"
+        },
+        "runningsteps": {
+            "diff": 2.7,
+            "url": "https://open.kattis.com/problems/runningsteps"
+        },
+        "bokforing": {
+            "diff": 3.8,
+            "url": "https://open.kattis.com/problems/bokforing"
+        },
+        "swaptosort": {
+            "diff": 4.0,
+            "url": "https://open.kattis.com/problems/swaptosort"
+        },
+        "chatter": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/chatter"
+        },
+        "longestpathinadag": {
+            "diff": 5.0,
+            "url": "https://open.kattis.com/problems/longestpathinadag"
+        },
+        "warringscoring": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/warringscoring"
+        },
+        "socialadvertising": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/socialadvertising"
+        },
+        "simone": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/simone"
+        },
+        "tractor": {
+            "diff": 5.8,
+            "url": "https://open.kattis.com/problems/tractor"
+        },
+        "fairbandwidthsharing": {
+            "diff": 7.2,
+            "url": "https://open.kattis.com/problems/fairbandwidthsharing"
+        },
+        "frankensteinsmonster": {
+            "diff": 7.8,
+            "url": "https://open.kattis.com/problems/frankensteinsmonster"
+        },
+        "airrally": {
+            "diff": 9.3,
+            "url": "https://open.kattis.com/problems/airrally"
+        },
+        "hopper": {
+            "diff": 9.6,
+            "url": "https://open.kattis.com/problems/hopper"
+        },
+        "treecanopygraphs": {
+            "diff": 8.1,
+            "url": "https://open.kattis.com/problems/treecanopygraphs"
+        },
+        "spaghetti": {
+            "diff": 7.1,
+            "url": "https://open.kattis.com/problems/spaghetti"
+        },
+        "fishingcontest": {
+            "diff": 9.2,
+            "url": "https://open.kattis.com/problems/fishingcontest"
+        },
+        "textprocessor": {
+            "diff": 9.4,
+            "url": "https://open.kattis.com/problems/textprocessor"
+        },
+        "histogrami": {
+            "diff": 8.5,
+            "url": "https://open.kattis.com/problems/histogrami"
+        },
+        "russiandolls": {
+            "diff": 7.5,
+            "url": "https://open.kattis.com/problems/russiandolls"
+        },
+        "thelastcrusade": {
+            "diff": 6.7,
+            "url": "https://open.kattis.com/problems/thelastcrusade"
+        },
+        "ranklistsorting": {
+            "diff": 9.1,
+            "url": "https://open.kattis.com/problems/ranklistsorting"
+        },
+        "guessthedigits": {
+            "diff": 9.2,
+            "url": "https://open.kattis.com/problems/guessthedigits"
+        },
+        "symmetricpolynomials": {
+            "diff": 8.6,
+            "url": "https://open.kattis.com/problems/symmetricpolynomials"
+        },
+        "specialcycle": {
+            "diff": 8.9,
+            "url": "https://open.kattis.com/problems/specialcycle"
+        },
+        "commonground": {
+            "diff": 8.0,
+            "url": "https://open.kattis.com/problems/commonground"
+        },
+        "fidgetspinner": {
+            "diff": 7.2,
+            "url": "https://open.kattis.com/problems/fidgetspinner"
+        },
+        "magicalmysteryknight": {
+            "diff": 9.5,
+            "url": "https://open.kattis.com/problems/magicalmysteryknight"
+        },
+        "towers": {
+            "diff": 9.5,
+            "url": "https://open.kattis.com/problems/towers"
+        },
+        "oldschooldays": {
+            "diff": 9.3,
+            "url": "https://open.kattis.com/problems/oldschooldays"
+        },
+        "tictactoe": {
+            "diff": 9.2,
+            "url": "https://open.kattis.com/problems/tictactoe"
+        },
+        "icecream": {
+            "diff": 8.6,
+            "url": "https://open.kattis.com/problems/icecream"
+        },
+        "bonafide": {
+            "diff": 8.4,
+            "url": "https://open.kattis.com/problems/bonafide"
+        },
+        "drivesafely": {
+            "diff": 8.5,
+            "url": "https://open.kattis.com/problems/drivesafely"
+        },
+        "swapfrenzy": {
+            "diff": 9.1,
+            "url": "https://open.kattis.com/problems/swapfrenzy"
+        },
+        "maxexpression": {
+            "diff": 9.1,
+            "url": "https://open.kattis.com/problems/maxexpression"
+        },
+        "bookcase": {
+            "diff": 9.3,
+            "url": "https://open.kattis.com/problems/bookcase"
+        },
+        "cool2": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/cool2"
+        },
+        "chineseremainder": {
+            "diff": 5.1,
+            "url": "https://open.kattis.com/problems/chineseremainder"
+        },
+        "multiplication": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/multiplication"
+        },
+        "restaurant": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/restaurant"
+        },
+        "krotating": {
+            "diff": 7.6,
+            "url": "https://open.kattis.com/problems/krotating"
+        },
+        "circuitdesign": {
+            "diff": 6.8,
+            "url": "https://open.kattis.com/problems/circuitdesign"
+        },
+        "twoknights": {
+            "diff": 6.1,
+            "url": "https://open.kattis.com/problems/twoknights"
+        },
+        "largeparty": {
+            "diff": 7.7,
+            "url": "https://open.kattis.com/problems/largeparty"
+        },
+        "wizardofodds": {
+            "diff": 2.5,
+            "url": "https://open.kattis.com/problems/wizardofodds"
+        },
+        "conquest": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/conquest"
+        },
+        "costumecontest": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/costumecontest"
+        },
+        "golombrulers": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/golombrulers"
+        },
+        "smallschedule": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/smallschedule"
+        },
+        "ferryloading4": {
+            "diff": 2.7,
+            "url": "https://open.kattis.com/problems/ferryloading4"
+        },
+        "batmanacci": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/batmanacci"
+        },
+        "repeatingdecimal": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/repeatingdecimal"
+        },
+        "ornaments": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/ornaments"
+        },
+        "builddeps": {
+            "diff": 4.0,
+            "url": "https://open.kattis.com/problems/builddeps"
+        },
+        "reactivity": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/reactivity"
+        },
+        "hamiltooonianhike": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/hamiltooonianhike"
+        },
+        "boxes": {
+            "diff": 4.1,
+            "url": "https://open.kattis.com/problems/boxes"
+        },
+        "equivalences": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/equivalences"
+        },
+        "heightpreservation": {
+            "diff": 5.8,
+            "url": "https://open.kattis.com/problems/heightpreservation"
+        },
+        "jointexcavation": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/jointexcavation"
+        },
+        "carefulascent": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/carefulascent"
+        },
+        "mia": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/mia"
+        },
+        "numbertree": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/numbertree"
+        },
+        "friday": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/friday"
+        },
+        "oktalni": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/oktalni"
+        },
+        "abc": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/abc"
+        },
+        "completingthesquare": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/completingthesquare"
+        },
+        "exactlyelectrical": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/exactlyelectrical"
+        },
+        "altruisticamphibians": {
+            "diff": 5.5,
+            "url": "https://open.kattis.com/problems/altruisticamphibians"
+        },
+        "babybites": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/babybites"
+        },
+        "codecleanups": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/codecleanups"
+        },
+        "deliverydelays": {
+            "diff": 7.3,
+            "url": "https://open.kattis.com/problems/deliverydelays"
+        },
+        "explosion": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/explosion"
+        },
+        "firingphaser": {
+            "diff": 9.3,
+            "url": "https://open.kattis.com/problems/firingphaser"
+        },
+        "gamescheduling": {
+            "diff": 7.4,
+            "url": "https://open.kattis.com/problems/gamescheduling"
+        },
+        "houselawn": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/houselawn"
+        },
+        "intergalacticbidding": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/intergalacticbidding"
+        },
+        "jumbledstring": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/jumbledstring"
+        },
+        "porpoises": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/porpoises"
+        },
+        "extensiveor": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/extensiveor"
+        },
+        "buggyrobot2": {
+            "diff": 5.3,
+            "url": "https://open.kattis.com/problems/buggyrobot2"
+        },
+        "showroom": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/showroom"
+        },
+        "jupiter": {
+            "diff": 6.0,
+            "url": "https://open.kattis.com/problems/jupiter"
+        },
+        "blocks": {
+            "diff": 5.8,
+            "url": "https://open.kattis.com/problems/blocks"
+        },
+        "unterwavedistance": {
+            "diff": 7.5,
+            "url": "https://open.kattis.com/problems/unterwavedistance"
+        },
+        "largesttriangle": {
+            "diff": 7.5,
+            "url": "https://open.kattis.com/problems/largesttriangle"
+        },
+        "railroad2": {
+            "diff": 1.5,
+            "url": "https://open.kattis.com/problems/railroad2"
+        },
+        "weakvertices": {
+            "diff": 1.5,
+            "url": "https://open.kattis.com/problems/weakvertices"
+        },
+        "wheresmyinternet": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/wheresmyinternet"
+        },
+        "grid": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/grid"
+        },
+        "coloring": {
+            "diff": 5.4,
+            "url": "https://open.kattis.com/problems/coloring"
+        },
+        "wipeyourwhiteboards": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/wipeyourwhiteboards"
+        },
+        "okvir": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/okvir"
+        },
+        "keepthemseparated": {
+            "diff": 6.7,
+            "url": "https://open.kattis.com/problems/keepthemseparated"
+        },
+        "treasurespotting": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/treasurespotting"
+        },
+        "disgruntledjudge": {
+            "diff": 3.8,
+            "url": "https://open.kattis.com/problems/disgruntledjudge"
+        },
+        "armpitcomputations": {
+            "diff": 4.4,
+            "url": "https://open.kattis.com/problems/armpitcomputations"
+        },
+        "1dfroggereasy": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/1dfroggereasy"
+        },
+        "1dfroggerhard": {
+            "diff": 8.9,
+            "url": "https://open.kattis.com/problems/1dfroggerhard"
+        },
+        "almostsorted": {
+            "diff": 7.4,
+            "url": "https://open.kattis.com/problems/almostsorted"
+        },
+        "banditraids": {
+            "diff": 9.3,
+            "url": "https://open.kattis.com/problems/banditraids"
+        },
+        "colourfulnewworld": {
+            "diff": 5.6,
+            "url": "https://open.kattis.com/problems/colourfulnewworld"
+        },
+        "greedypolygons2": {
+            "diff": 5.6,
+            "url": "https://open.kattis.com/problems/greedypolygons2"
+        },
+        "pandemicshopping": {
+            "diff": 6.9,
+            "url": "https://open.kattis.com/problems/pandemicshopping"
+        },
+        "parentgap": {
+            "diff": 2.2,
+            "url": "https://open.kattis.com/problems/parentgap"
+        },
+        "primebitcount": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/primebitcount"
+        },
+        "splitit": {
+            "diff": 8.5,
+            "url": "https://open.kattis.com/problems/splitit"
+        },
+        "taxidriver": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/taxidriver"
+        },
+        "yetanotherdivisorproblem": {
+            "diff": 8.5,
+            "url": "https://open.kattis.com/problems/yetanotherdivisorproblem"
+        },
+        "countingtriangles": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/countingtriangles"
+        },
+        "horror": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/horror"
+        },
+        "undetected": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/undetected"
+        },
+        "solitaire": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/solitaire"
+        },
+        "almostperfect": {
+            "diff": 3.1,
+            "url": "https://open.kattis.com/problems/almostperfect"
+        },
+        "inquiryi": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/inquiryi"
+        },
+        "juryjeopardy": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/juryjeopardy"
+        },
+        "planetaris": {
+            "diff": 2.4,
+            "url": "https://open.kattis.com/problems/planetaris"
+        },
+        "tgif": {
+            "diff": 3.1,
+            "url": "https://open.kattis.com/problems/tgif"
+        },
+        "fraction": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/fraction"
+        },
+        "frosting": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/frosting"
+        },
+        "justforsidekicks": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/justforsidekicks"
+        },
+        "islands2": {
+            "diff": 9.1,
+            "url": "https://open.kattis.com/problems/islands2"
+        },
+        "island": {
+            "diff": 7.1,
+            "url": "https://open.kattis.com/problems/island"
+        },
+        "noonerizedspumbers": {
+            "diff": 2.7,
+            "url": "https://open.kattis.com/problems/noonerizedspumbers"
+        },
+        "spiderman": {
+            "diff": 4.5,
+            "url": "https://open.kattis.com/problems/spiderman"
+        },
+        "modulo": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/modulo"
+        },
+        "highscore": {
+            "diff": 6.4,
+            "url": "https://open.kattis.com/problems/highscore"
+        },
+        "baconeggsandspam": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/baconeggsandspam"
+        },
+        "palindromesubstring": {
+            "diff": 4.1,
+            "url": "https://open.kattis.com/problems/palindromesubstring"
+        },
+        "npuzzle": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/npuzzle"
+        },
+        "rafting": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/rafting"
+        },
+        "oddities": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/oddities"
+        },
+        "fizzbuzz": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/fizzbuzz"
+        },
+        "skruop": {
+            "diff": 1.4500000000000002,
+            "url": "https://open.kattis.com/problems/skruop"
+        },
+        "fibonaccicycles": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/fibonaccicycles"
+        },
+        "ones": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/ones"
+        },
+        "farey": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/farey"
+        },
+        "divisible": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/divisible"
+        },
+        "cocoacoalition": {
+            "diff": 5.3,
+            "url": "https://open.kattis.com/problems/cocoacoalition"
+        },
+        "soyoulikeyourfoodhot": {
+            "diff": 5.4,
+            "url": "https://open.kattis.com/problems/soyoulikeyourfoodhot"
+        },
+        "oddbinom": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/oddbinom"
+        },
+        "interestingintegers": {
+            "diff": 4.8,
+            "url": "https://open.kattis.com/problems/interestingintegers"
+        },
+        "modulararithmetic": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/modulararithmetic"
+        },
+        "partygame": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/partygame"
+        },
+        "randomproblem": {
+            "diff": 7.2,
+            "url": "https://open.kattis.com/problems/randomproblem"
+        },
+        "carvet": {
+            "diff": 4.1,
+            "url": "https://open.kattis.com/problems/carvet"
+        },
+        "difference": {
+            "diff": 6.9,
+            "url": "https://open.kattis.com/problems/difference"
+        },
+        "pearwise": {
+            "diff": 4.1,
+            "url": "https://open.kattis.com/problems/pearwise"
+        },
+        "pizzacutting": {
+            "diff": 8.5,
+            "url": "https://open.kattis.com/problems/pizzacutting"
+        },
+        "romanholidays": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/romanholidays"
+        },
+        "sequentialyahtzee": {
+            "diff": 7.1,
+            "url": "https://open.kattis.com/problems/sequentialyahtzee"
+        },
+        "punctiliouscruciverbalist": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/punctiliouscruciverbalist"
+        },
+        "toursdesalesforce": {
+            "diff": 6.7,
+            "url": "https://open.kattis.com/problems/toursdesalesforce"
+        },
+        "watchyourstep": {
+            "diff": 7.8,
+            "url": "https://open.kattis.com/problems/watchyourstep"
+        },
+        "spellingbee": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/spellingbee"
+        },
+        "funhouse": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/funhouse"
+        },
+        "suspensionbridges": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/suspensionbridges"
+        },
+        "birthdaycake": {
+            "diff": 5.8,
+            "url": "https://open.kattis.com/problems/birthdaycake"
+        },
+        "bumped": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/bumped"
+        },
+        "catandmice": {
+            "diff": 5.1,
+            "url": "https://open.kattis.com/problems/catandmice"
+        },
+        "companypicnic": {
+            "diff": 4.8,
+            "url": "https://open.kattis.com/problems/companypicnic"
+        },
+        "glitchbot": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/glitchbot"
+        },
+        "greetingcard": {
+            "diff": 4.5,
+            "url": "https://open.kattis.com/problems/greetingcard"
+        },
+        "oddgnome": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/oddgnome"
+        },
+        "progressivescramble": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/progressivescramble"
+        },
+        "spaceprobe": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/spaceprobe"
+        },
+        "umbraldecoding": {
+            "diff": 7.6,
+            "url": "https://open.kattis.com/problems/umbraldecoding"
+        },
+        "esej": {
+            "diff": 3.1,
+            "url": "https://open.kattis.com/problems/esej"
+        },
+        "gridmagic": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/gridmagic"
+        },
+        "molekule": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/molekule"
+        },
+        "imagedecoding": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/imagedecoding"
+        },
+        "dartscoring": {
+            "diff": 4.4,
+            "url": "https://open.kattis.com/problems/dartscoring"
+        },
+        "bestbefore": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/bestbefore"
+        },
+        "screen": {
+            "diff": 4.1,
+            "url": "https://open.kattis.com/problems/screen"
+        },
+        "dominoes2": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/dominoes2"
+        },
+        "adjoin": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/adjoin"
+        },
+        "bells": {
+            "diff": 4.7,
+            "url": "https://open.kattis.com/problems/bells"
+        },
+        "conundrum": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/conundrum"
+        },
+        "downtime": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/downtime"
+        },
+        "entertainmentbox": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/entertainmentbox"
+        },
+        "floppy": {
+            "diff": 5.3,
+            "url": "https://open.kattis.com/problems/floppy"
+        },
+        "goblingardenguards": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/goblingardenguards"
+        },
+        "heropower": {
+            "diff": 7.1,
+            "url": "https://open.kattis.com/problems/heropower"
+        },
+        "icar": {
+            "diff": 9.1,
+            "url": "https://open.kattis.com/problems/icar"
+        },
+        "justaquiz": {
+            "diff": 6.4,
+            "url": "https://open.kattis.com/problems/justaquiz"
+        },
+        "simplepolygon": {
+            "diff": 5.3,
+            "url": "https://open.kattis.com/problems/simplepolygon"
+        },
+        "manhattanpositioningsystem": {
+            "diff": 6.8,
+            "url": "https://open.kattis.com/problems/manhattanpositioningsystem"
+        },
+        "forestforthetrees": {
+            "diff": 5.1,
+            "url": "https://open.kattis.com/problems/forestforthetrees"
+        },
+        "choosingnumbers": {
+            "diff": 7.2,
+            "url": "https://open.kattis.com/problems/choosingnumbers"
+        },
+        "leaderboardeffect": {
+            "diff": 5.4,
+            "url": "https://open.kattis.com/problems/leaderboardeffect"
+        },
+        "vivoparc": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/vivoparc"
+        },
+        "sentryrobots": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/sentryrobots"
+        },
+        "lcmpairsum": {
+            "diff": 4.4,
+            "url": "https://open.kattis.com/problems/lcmpairsum"
+        },
+        "shoppingmalls": {
+            "diff": 4.0,
+            "url": "https://open.kattis.com/problems/shoppingmalls"
+        },
+        "hyperpyramids": {
+            "diff": 4.7,
+            "url": "https://open.kattis.com/problems/hyperpyramids"
+        },
+        "greatexpectations": {
+            "diff": 5.1,
+            "url": "https://open.kattis.com/problems/greatexpectations"
+        },
+        "blowingcandles": {
+            "diff": 6.4,
+            "url": "https://open.kattis.com/problems/blowingcandles"
+        },
+        "review": {
+            "diff": 6.4,
+            "url": "https://open.kattis.com/problems/review"
+        },
+        "beehives2": {
+            "diff": 5.4,
+            "url": "https://open.kattis.com/problems/beehives2"
+        },
+        "buttonbashing": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/buttonbashing"
+        },
+        "hidden": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/hidden"
+        },
+        "hangingout": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/hangingout"
+        },
+        "cursethedarkness": {
+            "diff": 2.5,
+            "url": "https://open.kattis.com/problems/cursethedarkness"
+        },
+        "fyi": {
+            "diff": 1.3,
+            "url": "https://open.kattis.com/problems/fyi"
+        },
+        "cuchitunnels": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/cuchitunnels"
+        },
+        "doctorkattis": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/doctorkattis"
+        },
+        "communication": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/communication"
+        },
+        "units": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/units"
+        },
+        "breakingbad": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/breakingbad"
+        },
+        "armystrengthhard": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/armystrengthhard"
+        },
+        "cardtrading": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/cardtrading"
+        },
+        "theplank": {
+            "diff": 1.85,
+            "url": "https://open.kattis.com/problems/theplank"
+        },
+        "abandonedanimal": {
+            "diff": 5.5,
+            "url": "https://open.kattis.com/problems/abandonedanimal"
+        },
+        "boomingbusiness": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/boomingbusiness"
+        },
+        "crowdcontrol": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/crowdcontrol"
+        },
+        "disastrousdoubling": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/disastrousdoubling"
+        },
+        "enviousexponents": {
+            "diff": 5.0,
+            "url": "https://open.kattis.com/problems/enviousexponents"
+        },
+        "ghostbusters2": {
+            "diff": 5.6,
+            "url": "https://open.kattis.com/problems/ghostbusters2"
+        },
+        "horrorfilmnight": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/horrorfilmnight"
+        },
+        "intelligenceinfection": {
+            "diff": 5.4,
+            "url": "https://open.kattis.com/problems/intelligenceinfection"
+        },
+        "journalediting": {
+            "diff": 6.0,
+            "url": "https://open.kattis.com/problems/journalediting"
+        },
+        "knightsmarathon": {
+            "diff": 7.4,
+            "url": "https://open.kattis.com/problems/knightsmarathon"
+        },
+        "leapfrog": {
+            "diff": 7.4,
+            "url": "https://open.kattis.com/problems/leapfrog"
+        },
+        "fantasydraft": {
+            "diff": 4.1,
+            "url": "https://open.kattis.com/problems/fantasydraft"
+        },
+        "foldingacube": {
+            "diff": 5.3,
+            "url": "https://open.kattis.com/problems/foldingacube"
+        },
+        "hogwarts2": {
+            "diff": 5.4,
+            "url": "https://open.kattis.com/problems/hogwarts2"
+        },
+        "integerdivision": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/integerdivision"
+        },
+        "lostlineup": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/lostlineup"
+        },
+        "molecules": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/molecules"
+        },
+        "pieceofcake2": {
+            "diff": 1.5,
+            "url": "https://open.kattis.com/problems/pieceofcake2"
+        },
+        "biggesttriangle": {
+            "diff": 4.7,
+            "url": "https://open.kattis.com/problems/biggesttriangle"
+        },
+        "tiredterry": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/tiredterry"
+        },
+        "typo": {
+            "diff": 6.7,
+            "url": "https://open.kattis.com/problems/typo"
+        },
+        "watchlater": {
+            "diff": 7.7,
+            "url": "https://open.kattis.com/problems/watchlater"
+        },
+        "elevatortrouble": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/elevatortrouble"
+        },
+        "faultyrobot": {
+            "diff": 4.1,
+            "url": "https://open.kattis.com/problems/faultyrobot"
+        },
+        "brexit": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/brexit"
+        },
+        "ironcoal": {
+            "diff": 5.1,
+            "url": "https://open.kattis.com/problems/ironcoal"
+        },
+        "amanda": {
+            "diff": 5.7,
+            "url": "https://open.kattis.com/problems/amanda"
+        },
+        "distinctivecharacter": {
+            "diff": 6.9,
+            "url": "https://open.kattis.com/problems/distinctivecharacter"
+        },
+        "shovelling": {
+            "diff": 8.5,
+            "url": "https://open.kattis.com/problems/shovelling"
+        },
+        "acearbiter": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/acearbiter"
+        },
+        "berrybattle": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/berrybattle"
+        },
+        "coffeecupcombo": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/coffeecupcombo"
+        },
+        "discdistrict": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/discdistrict"
+        },
+        "enigmaticenumeration": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/enigmaticenumeration"
+        },
+        "foreignfootball": {
+            "diff": 7.5,
+            "url": "https://open.kattis.com/problems/foreignfootball"
+        },
+        "graduationguarantee": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/graduationguarantee"
+        },
+        "highesthill": {
+            "diff": 3.8,
+            "url": "https://open.kattis.com/problems/highesthill"
+        },
+        "icyitinerary": {
+            "diff": 7.3,
+            "url": "https://open.kattis.com/problems/icyitinerary"
+        },
+        "junkjourney": {
+            "diff": 6.2,
+            "url": "https://open.kattis.com/problems/junkjourney"
+        },
+        "sumsquareddigits": {
+            "diff": 1.5,
+            "url": "https://open.kattis.com/problems/sumsquareddigits"
+        },
+        "jobexpenses": {
+            "diff": 1.5,
+            "url": "https://open.kattis.com/problems/jobexpenses"
+        },
+        "batterup": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/batterup"
+        },
+        "sumkindofproblem": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/sumkindofproblem"
+        },
+        "statistics": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/statistics"
+        },
+        "kemija08": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/kemija08"
+        },
+        "findingana": {
+            "diff": 1.3,
+            "url": "https://open.kattis.com/problems/findingana"
+        },
+        "apaxiaaans": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/apaxiaaans"
+        },
+        "detaileddifferences": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/detaileddifferences"
+        },
+        "tricktreat": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/tricktreat"
+        },
+        "scenes": {
+            "diff": 3.6,
+            "url": "https://open.kattis.com/problems/scenes"
+        },
+        "farmingmars": {
+            "diff": 6.3,
+            "url": "https://open.kattis.com/problems/farmingmars"
+        },
+        "haiku": {
+            "diff": 5.3,
+            "url": "https://open.kattis.com/problems/haiku"
+        },
+        "mailbox": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/mailbox"
+        },
+        "sgcoin": {
+            "diff": 2.6,
+            "url": "https://open.kattis.com/problems/sgcoin"
+        },
+        "twosum": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/twosum"
+        },
+        "twostones": {
+            "diff": 1.3,
+            "url": "https://open.kattis.com/problems/twostones"
+        },
+        "triarea": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/triarea"
+        },
+        "sorttwonumbers": {
+            "diff": 1.3,
+            "url": "https://open.kattis.com/problems/sorttwonumbers"
+        },
+        "ofugsnuid": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/ofugsnuid"
+        },
+        "nineknights": {
+            "diff": 2.0,
+            "url": "https://open.kattis.com/problems/nineknights"
+        },
+        "hydrasheads": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/hydrasheads"
+        },
+        "relocation": {
+            "diff": 1.5,
+            "url": "https://open.kattis.com/problems/relocation"
+        },
+        "mjehuric": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/mjehuric"
+        },
+        "popularitycontest": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/popularitycontest"
+        },
+        "barcode": {
+            "diff": 6.8,
+            "url": "https://open.kattis.com/problems/barcode"
+        },
+        "successfulzoom": {
+            "diff": 2.1,
+            "url": "https://open.kattis.com/problems/successfulzoom"
+        },
+        "hotsprings": {
+            "diff": 2.5,
+            "url": "https://open.kattis.com/problems/hotsprings"
+        },
+        "addingwords": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/addingwords"
+        },
+        "musicyourway": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/musicyourway"
+        },
+        "nsum": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/nsum"
+        },
+        "doublepassword": {
+            "diff": 1.5,
+            "url": "https://open.kattis.com/problems/doublepassword"
+        },
+        "bookingaroom": {
+            "diff": 1.8,
+            "url": "https://open.kattis.com/problems/bookingaroom"
+        },
+        "knotknowledge": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/knotknowledge"
+        },
+        "autori": {
+            "diff": 1.3,
+            "url": "https://open.kattis.com/problems/autori"
+        },
+        "hissingmicrophone": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/hissingmicrophone"
+        },
+        "countthevowels": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/countthevowels"
+        },
+        "simonsays": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/simonsays"
+        },
+        "kemija": {
+            "diff": 8.9,
+            "url": "https://open.kattis.com/problems/kemija"
+        },
+        "dancecircle": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/dancecircle"
+        },
+        "brexitnegotiations": {
+            "diff": 5.4,
+            "url": "https://open.kattis.com/problems/brexitnegotiations"
+        },
+        "bottledup": {
+            "diff": 2.4,
+            "url": "https://open.kattis.com/problems/bottledup"
+        },
+        "habeascorpus": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/habeascorpus"
+        },
+        "craters": {
+            "diff": 8.0,
+            "url": "https://open.kattis.com/problems/craters"
+        },
+        "goodmessages": {
+            "diff": 4.9,
+            "url": "https://open.kattis.com/problems/goodmessages"
+        },
+        "water": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/water"
+        },
+        "bijele": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/bijele"
+        },
+        "alphabetspam": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/alphabetspam"
+        },
+        "phonelist": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/phonelist"
+        },
+        "dicegame": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/dicegame"
+        },
+        "integerlists": {
+            "diff": 5.6,
+            "url": "https://open.kattis.com/problems/integerlists"
+        },
+        "islands": {
+            "diff": 3.2,
+            "url": "https://open.kattis.com/problems/islands"
+        },
+        "howl": {
+            "diff": 1.9,
+            "url": "https://open.kattis.com/problems/howl"
+        },
+        "missingnumber": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/missingnumber"
+        },
+        "arithmeticdecoding": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/arithmeticdecoding"
+        },
+        "astro": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/astro"
+        },
+        "2048": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/2048"
+        },
+        "evilstraw": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/evilstraw"
+        },
+        "vudu": {
+            "diff": 4.5,
+            "url": "https://open.kattis.com/problems/vudu"
+        },
+        "treegenerator": {
+            "diff": 7.4,
+            "url": "https://open.kattis.com/problems/treegenerator"
+        },
+        "transportationplanning": {
+            "diff": 4.3,
+            "url": "https://open.kattis.com/problems/transportationplanning"
+        },
+        "color": {
+            "diff": 2.3,
+            "url": "https://open.kattis.com/problems/color"
+        },
+        "codenames2": {
+            "diff": 7.9,
+            "url": "https://open.kattis.com/problems/codenames2"
+        },
+        "winterfestival": {
+            "diff": 6.8,
+            "url": "https://open.kattis.com/problems/winterfestival"
+        },
+        "snowballfight": {
+            "diff": 6.6,
+            "url": "https://open.kattis.com/problems/snowballfight"
+        },
+        "stabletable": {
+            "diff": 4.7,
+            "url": "https://open.kattis.com/problems/stabletable"
+        },
+        "baloni": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/baloni"
+        },
+        "dasort": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/dasort"
+        },
+        "kinversions": {
+            "diff": 4.2,
+            "url": "https://open.kattis.com/problems/kinversions"
+        },
+        "ticketpricing": {
+            "diff": 4.6,
+            "url": "https://open.kattis.com/problems/ticketpricing"
+        },
+        "basincity": {
+            "diff": 8.6,
+            "url": "https://open.kattis.com/problems/basincity"
+        },
+        "catalansquare": {
+            "diff": 3.1,
+            "url": "https://open.kattis.com/problems/catalansquare"
+        },
+        "clockpictures": {
+            "diff": 4.8,
+            "url": "https://open.kattis.com/problems/clockpictures"
+        },
+        "squares": {
+            "diff": 7.2,
+            "url": "https://open.kattis.com/problems/squares"
+        },
+        "ceremony": {
+            "diff": 3.5,
+            "url": "https://open.kattis.com/problems/ceremony"
+        },
+        "outing": {
+            "diff": 5.8,
+            "url": "https://open.kattis.com/problems/outing"
+        },
+        "particles": {
+            "diff": 5.4,
+            "url": "https://open.kattis.com/problems/particles"
+        },
+        "roadwork": {
+            "diff": 6.0,
+            "url": "https://open.kattis.com/problems/roadwork"
+        },
+        "trainpassengers": {
+            "diff": 2.8,
+            "url": "https://open.kattis.com/problems/trainpassengers"
+        },
+        "ladder": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/ladder"
+        },
+        "beehives": {
+            "diff": 2.2,
+            "url": "https://open.kattis.com/problems/beehives"
+        },
+        "mountainbiking": {
+            "diff": 3.0,
+            "url": "https://open.kattis.com/problems/mountainbiking"
+        },
+        "tunnelingtheearth": {
+            "diff": 2.9,
+            "url": "https://open.kattis.com/problems/tunnelingtheearth"
+        },
+        "trilemma": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/trilemma"
+        },
+        "roundedbuttons": {
+            "diff": 3.7,
+            "url": "https://open.kattis.com/problems/roundedbuttons"
+        },
+        "cranes": {
+            "diff": 3.9,
+            "url": "https://open.kattis.com/problems/cranes"
+        },
+        "flowers": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/flowers"
+        },
+        "tightlypacked": {
+            "diff": 6.1,
+            "url": "https://open.kattis.com/problems/tightlypacked"
+        },
+        "findinglines": {
+            "diff": 6.5,
+            "url": "https://open.kattis.com/problems/findinglines"
+        },
+        "arable": {
+            "diff": 8.3,
+            "url": "https://open.kattis.com/problems/arable"
+        },
+        "ratingproblems": {
+            "diff": 1.4,
+            "url": "https://open.kattis.com/problems/ratingproblems"
+        },
+        "securedoors": {
+            "diff": 1.7,
+            "url": "https://open.kattis.com/problems/securedoors"
+        },
+        "birthdayparadox": {
+            "diff": 6.0,
+            "url": "https://open.kattis.com/problems/birthdayparadox"
+        },
+        "financialplanning": {
+            "diff": 3.4,
+            "url": "https://open.kattis.com/problems/financialplanning"
+        },
+        "rainbownumbers": {
+            "diff": 6.7,
+            "url": "https://open.kattis.com/problems/rainbownumbers"
+        },
+        "crne": {
+            "diff": 2.5,
+            "url": "https://open.kattis.com/problems/crne"
+        },
+        "zebrasocelots": {
+            "diff": 3.3,
+            "url": "https://open.kattis.com/problems/zebrasocelots"
+        },
+        "arrayofdiscord": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/arrayofdiscord"
+        },
+        "avlplusplus": {
+            "diff": 5.2,
+            "url": "https://open.kattis.com/problems/avlplusplus"
+        },
+        "sunlight": {
+            "diff": 7.9,
+            "url": "https://open.kattis.com/problems/sunlight"
+        },
+        "klockan2": {
+            "diff": 1.75,
+            "url": "https://open.kattis.com/problems/klockan2"
+        },
+        "wordcloud": {
+            "diff": 2.4,
+            "url": "https://open.kattis.com/problems/wordcloud"
+        },
+        "woodcutting": {
+            "diff": 2.7,
+            "url": "https://open.kattis.com/problems/woodcutting"
+        },
+        "tetration": {
+            "diff": 1.6,
+            "url": "https://open.kattis.com/problems/tetration"
+        },
+        "ljutnja": {
+            "diff": 4.8,
+            "url": "https://open.kattis.com/problems/ljutnja"
+        },
+        "jetpack": {
+            "diff": 5.9,
+            "url": "https://open.kattis.com/problems/jetpack"
+        }
+    }
+}
