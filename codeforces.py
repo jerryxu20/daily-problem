@@ -1,8 +1,5 @@
-from bs4 import BeautifulSoup
-import requests
-import random
+from util import Codeforces, get
 import json
-import math
 
 URL = "https://codeforces.com/api/problemset.problems?"
 TAGS = ['2-sat', 'binary search', 'bitmasks', 'brute force', 'chinese remainder theorem', 'combinatorics',
@@ -12,71 +9,46 @@ TAGS = ['2-sat', 'binary search', 'bitmasks', 'brute force', 'chinese remainder 
         'probabilities', 'schedules', 'shortest paths', 'sortings', 'string suffix structures', 'strings',
         'ternary search', 'trees', 'two pointers']
 
-
-def rand(a, b):
-    # Random int in the range [a, b)
-    return math.floor(random.random() * (b - a)) + a
-
-
 def construct_url(problem):
     contest_id = problem['contestId']
     letter = problem['index']
     return f"https://codeforces.com/contest/{contest_id}/problem/{letter}"
 
-
-def open_json(file):
-    with open(file) as f:
-        try:
-            k = json.load(f)
-        except:
-            k = {}
-            k['contest'] = {}
-    return k
-
-
-def dump_json(dict):
-    with open('cf.json', 'w') as f:
-        json.dump(dict, )
-    return
-
-
-def update_problems(k):
-    cf = open_json('cf.json')
+def update_problems(cf):
     for tag in TAGS:
         url = URL + f"?tags={tag}"
         url = url.encode()
 
-        res = requests.get(url)
-        problems = json.loads(res.content)['result']['problems']
+        content = get(url)
+        problems = json.loads(content)['result']['problems']
 
         if len(problems) == 0:
+            print("no problems from {url}")
             continue
 
+        data = []
+        tag_data = []
         for p in problems:
-            p_url = construct_url(p)
-            contest = p['contestId']
-            index = p['index']
-
-            cf['contest'][contest] = cf['contest'].get(contest, {})
-            if index in cf['contest'][contest]:
+            # name, url, website, contest_id, index, rating
+            if "rating" not in p:
                 continue
-
-            p['used'] = False
-            cf['contest'][contest][index] = p
-
-    dump_json(cf)
-
-
-def get_problem():
-    problems = []
-    for contest in cf['contest']:
-        pass
-
+            name = p['name']
+            tags = ",".join(p['tags'])
+            p_url = construct_url(p)
+            contest_id = str(p['contestId'])
+            index = p['index']
+            rating = p['rating']
+            print(rating)
+            data.append((name, p_url, "codeforces", contest_id, index, rating))
+            tag_data.append((p_url, tags))
+            
+            if len(data) == 1:
+                cf.insert(data, tag_data)
+                data = []
+                tag_data = []
+        cf.insert(data, tag_data)
 
 if __name__ == "__main__":
-    cf = {"contest": {"1244": {"D": {"contestId": 1244, "index": "D", "name": "Paint the Tree", "type": "PROGRAMMING", "points": 1750.0,
-                                     "rating": 1800, "tags": ["brute force", "constructive algorithms", "dp", "graphs", "implementation", "trees"]}}}}
-    problems = []
-    for contest in cf['contest'].values():
-        for problem in contest.values():
-            print(problem)
+    cf = Codeforces('problems.db')
+    update_problems(cf)
+    cf.close_connection()

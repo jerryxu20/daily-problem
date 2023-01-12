@@ -1,6 +1,4 @@
-import requests
-import json
-from db import Kattis
+from util import Kattis, get
 from bs4 import BeautifulSoup
 
 
@@ -21,11 +19,6 @@ def process_link(link):
 
     return (name, PREFIX + problem_link)
 
-def get(url):
-    res = requests.get(url)
-    res.raise_for_status()
-    return res.content
-
 def difficulty(problem):
     page = BeautifulSoup(get(problem), 'lxml')
     metadata = page.find('span', class_='difficulty_number').text
@@ -36,7 +29,6 @@ def difficulty(problem):
     diff = sm / len(metadata)
     print(diff)
     return diff
-
 
 def update_problems(k):
     page = get(CONTEST_URL)
@@ -52,34 +44,32 @@ def update_problems(k):
             continue
         contests.append(link)
 
+    data = []
     for contest in contests:
         page = get(f"{PREFIX}{contest}/problems")
         bsoup = BeautifulSoup(page, 'lxml')
         problems = bsoup.table
+
         if problems is None:
             continue
+        
         atags = problems.find_all('a')
         for a in atags:
             link = a['href']
+            
             if not valid_problem(link):
                 continue
+            
             name, full_link = process_link(link)
             diff = difficulty(full_link)
-            k['problems'][name] = k['problems'].get(link, {})
-            k['problems'][name]['diff'] = diff
-            k['problems'][name]['url']  = full_link
 
-def open_json(file):
-    with open(file) as f:
-        try:
-            k = json.load(f)
-        except:
-            k = {}
-            k['problems'] = {}
-    return k
+            data.append((name, full_link, "kattis", diff))
+            if len(data) == 10:
+                k.insert(data)
+                data = []
+    k.insert(data)
 
 if __name__ == "__main__":
-    k = open_json("kattis.json")
+    k = Kattis('problems.db')
     update_problems(k)
-    with open("kattis.json", 'w') as f:
-        json.dump(k, f)
+    k.close_connection()

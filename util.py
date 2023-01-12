@@ -116,6 +116,7 @@ def rand_prob(site, diff=0, delta=10000):
     res = db.retrieve(site, col, diff, delta)
     i = rand(0, len(res))
     db.update(res[i][0])
+    db.close_connection()
     return res[i][0]
     
     
